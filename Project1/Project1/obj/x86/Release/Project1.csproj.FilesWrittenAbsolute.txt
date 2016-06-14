@@ -1,0 +1,5 @@
+/home/danielt/Programme/Euler/Project1/Project1/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/danielt/Programme/Euler/Project1/Project1/bin/Release/Project1.exe.mdb
+/home/danielt/Programme/Euler/Project1/Project1/bin/Release/Project1.exe
+/home/danielt/Programme/Euler/Project1/Project1/obj/x86/Release/Project1.exe
+/home/danielt/Programme/Euler/Project1/Project1/obj/x86/Release/Project1.exe.mdb

@@ -1,0 +1,5 @@
+/home/danielt/Programme/Euler/Project5/Project5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/danielt/Programme/Euler/Project5/Project5/bin/Debug/Project5.exe.mdb
+/home/danielt/Programme/Euler/Project5/Project5/bin/Debug/Project5.exe
+/home/danielt/Programme/Euler/Project5/Project5/obj/x86/Debug/Project5.exe
+/home/danielt/Programme/Euler/Project5/Project5/obj/x86/Debug/Project5.exe.mdb

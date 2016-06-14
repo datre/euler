@@ -1,0 +1,5 @@
+/home/danielt/Project3/Project3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/danielt/Project3/Project3/bin/Debug/Project3.exe.mdb
+/home/danielt/Project3/Project3/bin/Debug/Project3.exe
+/home/danielt/Project3/Project3/obj/x86/Debug/Project3.exe
+/home/danielt/Project3/Project3/obj/x86/Debug/Project3.exe.mdb
